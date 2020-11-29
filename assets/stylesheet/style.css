@@ -1,0 +1,99 @@
+body{
+    overflow-x: hidden;
+}
+.foreground_image_left{
+ 
+    
+    margin-left: -157%;
+    margin-bottom: -510px;
+
+}
+.foreground_image_right{
+    margin-left: -6%;
+}
+
+.logo_1{
+    margin-left: 30%;
+    margin-top: 4%;
+}
+.navbar_cust{
+    margin-top: 2%;
+    font-size: 16px;
+    margin-left: -3%;
+    font-weight: 625;
+
+}
+
+.btn_cust{
+    margin-left: -200%;
+    background-color: #fff;
+    width: 115px;
+    margin-top: 20%;
+    border-radius: 25px;
+    font-size: 13px;
+    font-weight: 500;
+    padding: 10%;
+    border: none;
+
+}
+
+.download_button{
+    background-color: #fff;
+    color: #111;
+    border: none;
+    border-radius: 30px;
+    padding: 2%;
+    padding-left: 3%;
+    padding-right:3%;
+    font-size: 20px;
+    margin-left: 3%;
+}
+
+.discord_button
+{
+    background-color: #262626;
+    color: #fff;
+    border: none;
+    border-radius: 30px;
+    padding: 2%;
+    padding-left: 3%;
+    padding-right:3%;
+    font-size: 20px;
+    margin-left: 3%;
+}
+.image_button{
+width: 30px;
+height: 20px;
+font-weight: 800;
+padding-right:4%;
+
+
+}
+
+.download_windows{
+    background-color:#7289da;
+    color: #fff;
+    border: none;
+    border-radius: 30px;
+    padding: 1%;
+    font-size: 20px;
+    width:350px;
+    margin-top: 3%;
+}
+
+li:not(:last-child) {
+    margin-bottom: 8px;
+}
+
+.btn_cust2{
+    margin-left:65%;
+    margin-top:2%;
+    border:none;
+    border-radius:25px;
+    background-color:#7289da;
+    font-size: 13px;
+    font-weight: 500;
+    padding: 2%;
+    color: #fff;
+
+}
